@@ -1,2 +1,2 @@
 # Java-DSA
-Author - Muskan Sheikh
+Author - Muskan Sheikh (developer)
